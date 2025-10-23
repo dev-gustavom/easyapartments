@@ -47,3 +47,9 @@
 
    ```bash
    git clone https://github.com/seu-usuario/easyapartments.git
+
+2.Navegue até o diretório do projeto:   
+
+cd easyapartments
+
+3.Abra o arquivo index.html em seu navegador preferido.
